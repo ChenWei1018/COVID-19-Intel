@@ -1,0 +1,16 @@
+iso_code,location,date,total_cases,new_cases,total_deaths,new_deaths,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,total_tests,new_tests,total_tests_per_thousand,new_tests_per_thousand,tests_units
+USA,United States,2020-04-20,759687,24601,40682,1772,2295.109,74.323,122.905,5.353,4038895.0,147512.0,12.202,0.446,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-21,787752,28065,42539,1857,2379.896,84.788,128.516,5.61,4186974.0,148079.0,12.649,0.447,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-22,825041,37289,45063,2524,2492.551,112.655,136.141,7.625,4501795.0,314821.0,13.6,0.951,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-23,842629,17588,46784,1721,2545.687,53.136,141.34,5.199,4693574.0,191779.0,14.18,0.579,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-24,869172,26543,49963,3179,2625.876,80.19,150.944,9.604,4925393.0,231819.0,14.88,0.7,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-25,890524,21352,51017,1054,2690.383,64.507,154.129,3.184,5196649.0,271256.0,15.7,0.819,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-26,939053,48529,53189,2172,2836.995,146.612,160.691,6.562,5403052.0,206403.0,16.323,0.624,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-27,965910,26857,54876,1687,2918.134,81.138,165.787,5.097,5593495.0,190443.0,16.899,0.575,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-28,988451,22541,56245,1369,2986.233,68.099,169.923,4.136,5795728.0,202233.0,17.51,0.611,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-29,1012583,24132,58355,2110,3059.139,72.906,176.298,6.375,6026170.0,230442.0,18.206,0.696,inconsistent units (COVID Tracking Project)
+USA,United States,2020-04-30,1039909,27326,60966,2611,3141.694,82.555,184.186,7.888,6246692.0,220522.0,18.872,0.666,inconsistent units (COVID Tracking Project)
+USA,United States,2020-05-01,1069826,29917,63006,2040,3232.077,90.383,190.349,6.163,6551810.0,305118.0,19.794,0.922,inconsistent units (COVID Tracking Project)
+USA,United States,2020-05-02,1103781,33955,65068,2062,3334.659,102.582,196.578,6.23,6805241.0,253431.0,20.559,0.766,inconsistent units (COVID Tracking Project)
+USA,United States,2020-05-03,1133069,29288,66385,1317,3423.142,88.483,200.557,3.979,7053366.0,248125.0,21.309,0.75,inconsistent units (COVID Tracking Project)
+
